@@ -1,14 +1,14 @@
 import serial
 import datetime
 
-SERIAL_PORT = 'COM6'
+SERIAL_PORT = '/dev/ttyACM0'
 BAUD_RATE = 9600
 counter =0
 pattern = [b'\r',b'\n',b'\r',b'\n']
 
 # create a unique filename based on the current date and time
 timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-log_filename = f"data_log\spi_log_{timestamp}.txt"
+log_filename = f"data_log/spi_log_{timestamp}.txt"
 
 print(f"Connecting to port {SERIAL_PORT} at {BAUD_RATE} bps...")
 
