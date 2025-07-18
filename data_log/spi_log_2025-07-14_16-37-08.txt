@@ -1,12 +1,0 @@
-Temperature from tmp126 is 22.03.
-Temperature from lm95071 is 21.47.
-Current time is 2025-07-14_16:37:09
-
-Temperature from tmp126 is 22.06.
-Temperature from lm95071 is 21.50.
-Current time is 2025-07-14_16:37:11
-
-Temperature from tmp126 is 22.03.
-Temperature from lm95071 is 21.50.
-Current time is 2025-07-14_16:37:13
-

@@ -1,124 +1,0 @@
-Temperature from tmp126 is 21.47.
-Temperature from lm95071 is 21.97.
-Current time is 2025-07-16_10:18:17
-
-Temperature from tmp126 is 21.47.
-Temperature from lm95071 is 21.94.
-Current time is 2025-07-16_10:18:19
-
-Temperature from tmp126 is 21.47.
-Temperature from lm95071 is 21.97.
-Current time is 2025-07-16_10:18:21
-
-Temperature from tmp126 is 21.47.
-Temperature from lm95071 is 21.94.
-Current time is 2025-07-16_10:18:23
-
-Temperature from tmp126 is 21.47.
-Temperature from lm95071 is 21.94.
-Current time is 2025-07-16_10:18:25
-
-Temperature from tmp126 is 21.50.
-Temperature from lm95071 is 22.06.
-Current time is 2025-07-16_10:18:27
-
-Temperature from tmp126 is 21.47.
-Temperature from lm95071 is 22.00.
-Current time is 2025-07-16_10:18:29
-
-Temperature from tmp126 is 21.50.
-Temperature from lm95071 is 22.00.
-Current time is 2025-07-16_10:18:31
-
-Temperature from tmp126 is 21.50.
-Temperature from lm95071 is 22.03.
-Current time is 2025-07-16_10:18:33
-
-Temperature from tmp126 is 21.53.
-Temperature from lm95071 is 22.00.
-Current time is 2025-07-16_10:18:35
-
-Temperature from tmp126 is 21.50.
-Temperature from lm95071 is 22.03.
-Current time is 2025-07-16_10:18:37
-
-Temperature from tmp126 is 21.47.
-Temperature from lm95071 is 22.00.
-Current time is 2025-07-16_10:18:39
-
-Temperature from tmp126 is 21.50.
-Temperature from lm95071 is 22.00.
-Current time is 2025-07-16_10:18:42
-
-Temperature from tmp126 is 21.50.
-Temperature from lm95071 is 22.00.
-Current time is 2025-07-16_10:18:44
-
-Temperature from tmp126 is 21.50.
-Temperature from lm95071 is 22.00.
-Current time is 2025-07-16_10:18:46
-
-Temperature from tmp126 is 21.50.
-Temperature from lm95071 is 22.00.
-Current time is 2025-07-16_10:18:48
-
-Temperature from tmp126 is 21.50.
-Temperature from lm95071 is 22.00.
-Current time is 2025-07-16_10:18:50
-
-Temperature from tmp126 is 21.50.
-Temperature from lm95071 is 22.00.
-Current time is 2025-07-16_10:18:52
-
-Temperature from tmp126 is 21.50.
-Temperature from lm95071 is 22.00.
-Current time is 2025-07-16_10:18:54
-
-Temperature from tmp126 is 21.50.
-Temperature from lm95071 is 21.97.
-Current time is 2025-07-16_10:18:56
-
-Temperature from tmp126 is 21.50.
-Temperature from lm95071 is 22.06.
-Current time is 2025-07-16_10:18:58
-
-Temperature from tmp126 is 21.50.
-Temperature from lm95071 is 21.97.
-Current time is 2025-07-16_10:19:00
-
-Temperature from tmp126 is 21.47.
-Temperature from lm95071 is 21.97.
-Current time is 2025-07-16_10:19:02
-
-Temperature from tmp126 is 21.47.
-Temperature from lm95071 is 21.97.
-Current time is 2025-07-16_10:19:04
-
-Temperature from tmp126 is 21.47.
-Temperature from lm95071 is 21.94.
-Current time is 2025-07-16_10:19:06
-
-Temperature from tmp126 is 21.44.
-Temperature from lm95071 is 21.97.
-Current time is 2025-07-16_10:19:09
-
-Temperature from tmp126 is 21.47.
-Temperature from lm95071 is 21.94.
-Current time is 2025-07-16_10:19:11
-
-Temperature from tmp126 is 21.44.
-Temperature from lm95071 is 21.94.
-Current time is 2025-07-16_10:19:13
-
-Temperature from tmp126 is 21.44.
-Temperature from lm95071 is 21.94.
-Current time is 2025-07-16_10:19:15
-
-Temperature from tmp126 is 21.41.
-Temperature from lm95071 is 21.94.
-Current time is 2025-07-16_10:19:17
-
-Temperature from tmp126 is 21.44.
-Temperature from lm95071 is 21.94.
-Current time is 2025-07-16_10:19:19
-
