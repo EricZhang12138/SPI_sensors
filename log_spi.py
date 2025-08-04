@@ -9,11 +9,11 @@ def print_to_console():
     while True:
         try:
             lock.acquire()
-            print(buffer_data.decode('utf-8',errors='ignore'))
+            print(buffer_data[:64].decode('utf-8',errors='ignore'))
             buffer_data.clear()
         finally:
             lock.release()
-        time.sleep(2)
+        time.sleep(5)
 
 SERIAL_PORT = '/dev/ttyACM0'
 BAUD_RATE = 9600
@@ -66,11 +66,11 @@ try:
                     finally:
                         lock.release()
                     counter =0
-                    buffer_str = buffer_data.decode('utf-8')
+                    buffer_str = buffer_data[:64].decode('utf-8')
                     tmp126_read = buffer_str[8:13]
                     lm9521_read = buffer_str[25:30]
                     writer.writerow([timestamp_str,tmp126_read,lm9521_read])
-                    
+                     
                 if incoming_byte:
                     #write the raw byte directly to the file
                     #covert the windows \r\n to linux \n
